@@ -37,7 +37,7 @@ pipeline {
   stage('Publish') {
    steps {
         echo 'publish'
-    sh 'dotnet nuget push **\\nupkgs\\*.nupkg -s http://localhost:8089/repository/nuget-hosted/'
+    sh 'dotnet nuget push nupkgs/*.nupkg -s http://localhost:8089/repository/nuget-hosted/'
    }
   }
  }
