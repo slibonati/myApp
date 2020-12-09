@@ -1,0 +1,11 @@
+/home/slibonat/git/myApp/bin/Release/netcoreapp3.1/myApp
+/home/slibonat/git/myApp/bin/Release/netcoreapp3.1/myApp.deps.json
+/home/slibonat/git/myApp/bin/Release/netcoreapp3.1/myApp.runtimeconfig.json
+/home/slibonat/git/myApp/bin/Release/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/home/slibonat/git/myApp/bin/Release/netcoreapp3.1/myApp.dll
+/home/slibonat/git/myApp/bin/Release/netcoreapp3.1/myApp.pdb
+/home/slibonat/git/myApp/obj/Release/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/home/slibonat/git/myApp/obj/Release/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/home/slibonat/git/myApp/obj/Release/netcoreapp3.1/myApp.AssemblyInfo.cs
+/home/slibonat/git/myApp/obj/Release/netcoreapp3.1/myApp.dll
+/home/slibonat/git/myApp/obj/Release/netcoreapp3.1/myApp.pdb
